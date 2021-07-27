@@ -1,0 +1,22 @@
+body {
+  font-family: Verdana, MV Boli, sans-serif;
+  font-size: 30px;
+  color: rgba(87, 8, 233, 0.993);
+  text-align: center;
+  background-color: #54ff05de;
+  background-image: url("https://i.imgur.com/2Chk1C5.gif");
+}
+
+p {
+  margin-left: 80px;
+  margin-top: 20px;
+  font-size: 68%;
+  color: rgb(21, 2, 24);
+}
+
+p2 {
+  margin-left: 20px;
+  margin-top: 20px;
+  font-size: 40%;
+  color: rgb(45, 15, 177);
+}
